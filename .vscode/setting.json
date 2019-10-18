@@ -1,0 +1,19 @@
+{
+  "editor.rulers": [80, 100],
+  "editor.tabSize": 2,
+  "editor.lineNumbers": "on",
+  "editor.formatOnSave": true,
+  "javascript.validate.enable": false,
+  "editor.insertSpaces": false,
+  "eslint.autoFixOnSave": true,
+  "prettier.useTabs": false,
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 80,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
